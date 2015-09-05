@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="250">
   <g stroke-width="16" fill="none">
-    <path d="M200 102a51 51 0 1 1-17-30m30 37h-53" stroke="#4a87ee"/>
+    <path d="M200 102a51 51 0 1 1-17-30m100 37h-53" stroke="#4a87ee"/>
   </g>
 </svg>
